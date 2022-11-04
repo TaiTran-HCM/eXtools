@@ -1,0 +1,10 @@
+
+POST https://mirror-ember-check.glitch.me/createTempMailProfile
+Content-Type: application/json
+
+{
+    "type": 1,
+    "email":"test@gmail.com",
+    "account_name" : "test",
+    "domain" : "gmail.com"
+}

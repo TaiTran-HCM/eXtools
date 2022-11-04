@@ -1,0 +1,7 @@
+GET https://mirror-ember-check.glitch.me/getUserProfileAccessToken
+Content-Type: application/json
+Authorization: YWRtaW5AZ21haWwuY29tZTNhZmVkMDA0N2IwODA1OWQwZmFkYTEwZjQwMGMxZTU=
+
+{
+
+}

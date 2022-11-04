@@ -1,0 +1,7 @@
+POST https://mirror-ember-check.glitch.me/getTempMailProfile
+Content-Type: application/json
+Authorization: YWRtaW5AZ21haWwuY29tZTNhZmVkMDA0N2IwODA1OWQwZmFkYTEwZjQwMGMxZTU=
+
+{
+    "user_token" : "526fd1698ce7ca20a2c67352ddced4b1"
+}

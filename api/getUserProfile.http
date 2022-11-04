@@ -1,0 +1,7 @@
+POST https://mirror-ember-check.glitch.me/getUserProfile
+Content-Type: application/json
+
+{
+    "user_name": "admin@gmail.com",
+    "password": "Admin"
+}

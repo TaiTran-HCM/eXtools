@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <title>Weai Tools</title>
+  </head>
+  <body>
+    <h1>Welcome Tools Weai</h1>
+    <div class="button-wrapper">
+      <button id="button-mail">Temp Mail</button>
+      <button id="button-mail-google">Temp Mail Google</button>
+    </div>
+    <div class="information">
+      <h1>App Information</h1>
+      <p>Node Version : <span id="node-version"></span></p>
+      <p>Chrome Version : <span id="chrome-version"></span></p>
+      <p>Electron Version : <span id="electron-version"></span></p>
+      <p>Click : <span id="button-clicked">Null</p>
+    </div>
+    <!-- You can also require other files to run in this process -->
+    <script src="./renderer.js"></script>
+  </body>
+</html>
