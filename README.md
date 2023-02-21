@@ -1,1 +1,5 @@
-eXtools will building for QC.
+eXtools is a comprehensive testing tool project that provides a range of functions to help streamline your software testing processes. One of the most useful features of eXtools is its ability to generate temporary emails for testing purposes. This allows you to simulate a range of test scenarios without risking damage to your actual email accounts.
+
+In addition to its temp mail function, eXtools also offers a centralized test case storage system, allowing you to keep all of your test cases organized in one place within your project. This makes it easier for you to keep track of your testing progress and identify any areas that require additional attention.
+
+At eXtools, we understand that the software testing process can be time-consuming and complex. That's why we've developed this project to help make your testing procedures as streamlined and efficient as possible. With eXtools, you can focus on delivering the best possible software to your users, without the hassle of managing the testing process manually.
